@@ -1,7 +1,8 @@
 #' ---
 #' title: GBD2019 BELGIUM / LIFE EXPECTANCY
 #' output:
-#'   html_document:
+#'   github_document:
+#'     html_preview: false
 #'     toc: true
 #' ---
 
@@ -89,4 +90,4 @@ tab_eu15_mean(1990, 2019, "Male")
 tab_eu15_mean(1990, 2019, "Female")
 tab_eu15_mean(1990, 2019, "Both")
 
-##rmarkdown::render("GBD2019-BE-LE.R")
+##rmarkdown::render("02-GBD2019-BE-LE.R")

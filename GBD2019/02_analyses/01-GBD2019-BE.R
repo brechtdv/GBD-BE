@@ -2,6 +2,7 @@
 #' title: GBD2019 BELGIUM
 #' output:
 #'   github_document:
+#'     html_preview: false
 #'     toc: true
 #' ---
 

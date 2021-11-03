@@ -1,7 +1,8 @@
 #' ---
 #' title: GBD2019 BELGIUM / TOTALS
 #' output:
-#'   html_document:
+#'   github_document:
+#'     html_preview: false
 #'     toc: true
 #' ---
 
@@ -24,4 +25,4 @@ col <- c("measure", "sex", "year", "val", "lower", "upper")
 kable(subset(x, year == 1990)[, col], row.names = FALSE)
 kable(subset(x, year == 2019)[, col], row.names = FALSE)
 
-##rmarkdown::render("GBD2019-BE-TOTALS.R")
+##rmarkdown::render("04-GBD2019-BE-TOTALS.R")

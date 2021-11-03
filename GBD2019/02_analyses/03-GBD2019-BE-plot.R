@@ -1,7 +1,8 @@
 #' ---
 #' title: GBD2019 BELGIUM // PLOT
 #' output:
-#'   html_document:
+#'   github_document:
+#'     html_preview: false
 #'     toc: true
 #' ---
 
@@ -321,4 +322,4 @@ slopegraph(n, "DALYs (Disability-Adjusted Life Years)", "Female", 1990, 2019)
 slopegraph(n, "DALYs (Disability-Adjusted Life Years)", "Both", 1990, 2019)
 
 
-##rmarkdown::render("GBD2019-BE-plot.R")
+##rmarkdown::render("03-GBD2019-BE-plot.R")

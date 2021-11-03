@@ -1,7 +1,8 @@
 #' ---
 #' title: GBD2019 BELGIUM / TOTALS // PLOT
 #' output:
-#'   html_document:
+#'   github_document:
+#'     html_preview: false
 #'     toc: true
 #' ---
 
@@ -86,4 +87,4 @@ ggplot(
   theme(legend.position = c(0.87, 0.8))
 dev.off()
 
-##rmarkdown::render("GBD2019-BE-TOTALS-plot.R")
+##rmarkdown::render("05-GBD2019-BE-TOTALS-plot.R")
