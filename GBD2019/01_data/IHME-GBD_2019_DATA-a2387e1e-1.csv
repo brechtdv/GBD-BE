@@ -1,0 +1,361 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1991,908.6817881965826,916.2869587301636,900.8759329125411
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1991,527.5468196237607,532.8475679672496,522.4676830756741
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1991,681.3272559322714,685.9797324767719,676.7520350853505
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1990,923.8084806282873,931.4718655385525,915.7559342617419
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1990,540.7041781468467,545.9510627131995,535.5769471763952
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1990,695.2392805162018,699.5382100978566,690.7088355930263
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1992,898.1597212178508,905.8102642419069,890.4344888588655
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1992,522.7805906141622,527.6219943921515,517.882376836245
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1992,674.3282828949339,678.7213565079747,669.5407018515104
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1993,895.0147650937013,902.395163587134,887.3839795925286
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1993,518.5000306154827,523.4487645007641,513.3736477791131
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1993,671.0991062825606,675.4443662318267,666.7426129855576
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1995,859.4736090350469,866.6488835239782,851.5197291602566
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1995,500.5466811967341,505.5274345042189,495.14753219497464
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1995,647.277487420021,652.2273631266806,641.8443774211102
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1996,842.1693680168117,849.553669114581,834.9263855834291
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1996,491.6036432000416,496.6571802164155,486.75201314898334
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1996,634.6638312474648,640.8600102877115,628.8810753547166
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1994,872.5154813857713,879.7888005925837,865.0797911471351
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1994,510.5136546534811,515.7162264437126,505.36801670823104
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1994,658.0841218130522,662.7314609850383,653.5825688314372
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1997,826.4636528683964,833.2144307927631,819.4855319124804
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1997,484.7669796610099,489.9164978130803,479.52414884745883
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1997,624.2684739226854,628.8778685487003,619.3904539323894
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2000,782.7521752326984,790.0038948293609,775.7104452075589
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2000,466.3013379249293,471.1593208853302,461.3641269106894
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2000,597.8251969094042,602.1995282914147,593.5945418946293
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1999,800.4539456230686,808.0749992071022,793.2425086230967
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1999,473.40125280275106,478.58639550045734,468.68986538319234
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1999,608.4771164589856,612.792736704768,603.823357742445
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2001,764.1368104623231,770.9984822707956,757.4178390856218
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2001,457.04450602321424,462.12826212825127,452.3423223757183
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2001,585.0769024023707,589.1104085918439,580.9266155120873
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,1998,810.7048365148953,817.4705460659665,803.7869078430442
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,1998,482.1083700944988,487.2473368210179,476.94489237929736
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,1998,616.9331837634156,621.5710657126841,612.7330011028629
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2003,740.0793468456019,746.6786263970749,733.6991414531409
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2003,451.14227934308224,455.83822078222363,446.2467546520304
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2003,571.8653321814219,575.659712852275,567.8777178780815
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2002,754.8521362648016,761.3684513373523,748.3387563658042
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2002,455.7567407923581,460.4832262509848,451.0370511076908
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2002,580.6700914242239,584.3186572495106,576.5570439807843
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2004,712.3984770177406,718.9935328077023,705.7209952147838
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2004,435.0875822516969,439.6423018062585,430.4591565414611
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2004,551.5005934392041,555.3490136126801,547.2180223615884
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2007,660.1775739406816,666.1856557526334,654.0178623929015
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2007,412.2780897961931,416.48171645278325,408.12647372397913
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2007,517.864276922955,521.4755504427136,514.1406716913297
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2005,694.3722929444782,700.6562565093898,688.0505294700752
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2005,426.15016109900023,430.7245089251117,421.5929153236296
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2005,539.3841294690577,543.2235065036435,535.4767922150085
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2008,654.0731637280384,659.7618420814398,647.9866617535449
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2008,408.3357051339653,412.65201780246827,403.78642490030893
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2008,513.4852080883207,517.186151951141,509.7622860746718
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2009,640.975315490381,647.2160099318628,635.3974448015167
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2009,404.475234581941,408.7614750069123,400.51204002614776
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2009,506.0332308483696,509.5554996680034,502.4789850603474
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2006,671.5685784561556,677.6152984353047,665.261922076562
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2006,414.71783732901724,419.11356247613054,410.3099479316234
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2006,523.5957085783377,527.3024741112979,519.7691780097695
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2011,616.461985252792,622.3615672653833,610.6999538768451
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2011,391.16370121464314,395.4640533343428,386.96038380632194
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2011,488.76926657974735,492.5982810782928,485.1575299866236
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2013,601.5667523217011,607.5999436126644,595.7650641775356
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2013,384.7680728865058,389.1527481021745,380.62277979221625
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2013,479.01628473998477,483.7309492570559,474.38592447071363
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2010,628.2913353652883,634.4159882330543,622.8337138956679
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2010,396.3474185781479,400.5054295916179,392.156840819062
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2010,496.38425111918923,500.1051252584333,492.89958341655023
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2012,615.2492336224684,621.3565348629586,609.4372849104278
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2012,387.82574185660195,392.3222043021571,383.7083117912751
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2012,486.497758097375,490.44154553654795,482.66836988756
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2015,574.0310181451296,580.2759518536006,567.9086299872635
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2015,374.83872423441153,379.5254404588281,370.63788177105897
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2015,462.3093505110046,466.805209615242,457.81854005167753
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2017,561.3220469219999,571.3350290492438,551.7366206772425
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2017,362.1532425276649,368.8098315685291,355.85089704463593
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2017,450.0063226764263,458.2335501055666,442.16007172448656
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2014,581.1196768920654,587.2568199313185,575.5061201797956
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2014,372.4362143196693,376.5836694789817,368.4856416032987
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2014,463.61272521312867,468.2755239930526,459.0933025004571
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2016,563.7575006429477,571.539554243477,556.3900895020264
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2016,364.99546301916257,370.29564244304936,359.9248801889106
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2016,452.4290055326171,458.4901348648864,446.7440707365873
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2019,558.651145142668,571.8146657986896,546.3762247789689
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2019,362.14658873634477,370.52488832589245,354.36947723110325
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2019,449.5290650619109,460.16880142519074,439.6343702300464
+Deaths,Belgium,Male,Age-standardized,All causes,Rate,2018,558.4826890570607,570.1582717522724,547.3572161854697
+Deaths,Belgium,Female,Age-standardized,All causes,Rate,2018,362.21827712128146,369.6097825839057,355.0477571842607
+Deaths,Belgium,Both,Age-standardized,All causes,Rate,2018,449.2043986825076,458.6408018658806,440.6000510243541
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1990,20493.347640873224,20692.933658505175,20295.654431418046
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1990,11395.833208883143,11524.490808951125,11270.926403947278
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1990,15489.332570644505,15612.711091565994,15368.88805611239
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1991,20228.330996677098,20420.789028892774,20027.890277604965
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1991,11126.74836248826,11254.943983393256,11000.543913144113
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1991,15233.538355977871,15351.349729626305,15118.268201943132
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1993,19824.243703702556,20007.46605126818,19632.10855942736
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1993,10820.571921943423,10943.436052908695,10705.308611701568
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1993,14893.017670771302,15010.217756934946,14777.111758794543
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1992,19960.802188732127,20160.561522497173,19768.7777978985
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1992,10999.726509984168,11117.307116871118,10880.21247622882
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1992,15047.135467493827,15165.947106647473,14929.088129442694
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1995,18933.395264303148,19103.82230302973,18745.030969910185
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1995,10372.249677580528,10491.816725416393,10245.143766631934
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1995,14260.736256861797,14379.554103838154,14133.738951981959
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1994,19362.676984383786,19539.83750639401,19184.675616138356
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1994,10656.017724431445,10778.163304000955,10533.736581336581
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1994,14606.379532301742,14719.408799086772,14494.180129765939
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1996,18353.284665349758,18537.403266321202,18185.337530157438
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1996,10055.528222764038,10180.743478506958,9930.215651672386
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1996,13824.258318999819,13978.982355043105,13678.038458368985
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1997,17942.9156943062,18111.293767256866,17776.076144637333
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1997,9883.135153230438,10017.631087739259,9745.819071589542
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1997,13546.2280415691,13671.304231082424,13415.566642695028
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1999,17367.121636527096,17556.726290962208,17183.155489734985
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1999,9551.73471714169,9676.868200658613,9429.883028015798
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1999,13127.010113814296,13239.39813551957,13007.25507742431
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2000,17074.573554509047,17243.299307551486,16902.058017059797
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2000,9426.656012551693,9542.460900215876,9305.016938254847
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2000,12940.178700272209,13056.676753638565,12829.634304912046
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,1998,17556.49112112231,17718.20577863186,17390.68761036552
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,1998,9789.558771619893,9920.404463239101,9660.34923016771
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,1998,13326.870038436908,13447.659950391813,13210.30272590884
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2001,16646.980606393707,16809.589901631345,16483.062434546842
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2001,9211.280508149259,9339.177117027602,9088.382713483825
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2001,12634.610134091192,12743.587303102599,12519.146614382984
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2003,15792.864193375064,15949.534329753404,15644.436531372305
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2003,8873.339033173635,8983.32723858689,8759.8187293061
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2003,12063.970888009875,12161.38334483723,11959.028029691155
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2002,16254.391483722105,16412.272124079478,16100.177392217918
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2002,9063.18130429933,9175.962478228268,8946.616142065028
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2002,12375.864366780448,12472.079592803999,12269.130176410583
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2004,15177.758430820495,15340.92011499514,15024.975013845871
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2004,8542.460652451786,8646.704641537359,8436.49155321838
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2004,11608.186596622412,11709.530133335906,11501.60987600307
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2005,14803.352605172626,14949.802938957604,14659.566616212307
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2005,8401.601411756339,8503.332261221933,8298.196220161211
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2005,11366.181493203987,11461.71073382313,11266.347301550197
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2007,14122.726678045277,14259.889528599668,13976.625448480892
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2007,8186.7816097763625,8274.082823926652,8100.325577816968
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2007,10948.923598670419,11034.411963244938,10857.385300514177
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2008,13924.902623060798,14058.35044291466,13780.555233547237
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2008,8050.376712591956,8139.766516006281,7956.416740444392
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2008,10789.932521446046,10879.175178884208,10703.406627791463
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2009,13592.078868142335,13733.251869668426,13456.352592165633
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2009,7984.734893391725,8076.2531776121305,7892.658620196996
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2009,10602.086755299055,10687.007320738981,10520.404030644517
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2006,14343.445297751508,14484.449283845948,14196.198780302213
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2006,8208.731155578274,8305.088144811663,8110.383359992006
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2006,11056.294447328824,11154.095395521981,10960.747109962194
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2011,13088.087154192526,13225.417441591073,12947.905058743054
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2011,7754.870489047751,7857.022810307951,7651.502825163628
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2011,10254.33311837571,10351.879827844856,10160.443116925953
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2012,12960.03697922025,13105.924848905323,12820.9864041195
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2012,7635.210444340282,7740.303033809452,7538.023751075502
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2012,10131.85099810318,10230.61043338539,10034.025300274358
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2010,13349.15814706751,13492.912315780093,13219.38154014771
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2010,7866.769238134307,7965.461031459518,7766.293073392924
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2010,10430.034599806528,10524.948938484637,10344.442236881383
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2013,12567.274552479155,12707.869660839084,12430.427762903564
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2013,7544.621805780813,7640.016961968729,7449.908490269283
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2013,9900.552204646443,10013.676998007386,9794.775954969693
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2015,11900.990220884176,12053.237972794714,11748.979383808606
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2015,7273.223726745252,7382.419790036613,7175.158472996232
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2015,9455.067676856208,9565.431040913298,9344.940598156254
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2017,11611.845690444465,11903.794320859506,11333.489767508901
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2017,7008.450806458022,7203.031292844006,6834.9047994068505
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2017,9185.319582179809,9424.892369561,8962.335388027568
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2016,11695.488964220003,11907.885323508439,11490.850718550882
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2016,7081.698096605457,7221.899062291651,6950.413008441865
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2016,9260.481729668176,9433.316546011887,9100.60830463058
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2014,12128.52850431599,12264.860567204798,11999.727789960978
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2014,7271.393008731348,7361.424302297435,7179.936877162184
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2014,9556.371544515612,9665.505568431568,9454.870943465985
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2019,11526.032801850806,11930.09678315185,11160.962356307706
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2019,6961.5307461609345,7207.710260797881,6739.774575899889
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2019,9129.163951486438,9453.051731234154,8837.400150105335
+YLLs (Years of Life Lost),Belgium,Male,Age-standardized,All causes,Rate,2018,11545.137436398849,11892.983643855927,11221.867113436492
+YLLs (Years of Life Lost),Belgium,Female,Age-standardized,All causes,Rate,2018,6983.918040237009,7198.629920195049,6785.706814232191
+YLLs (Years of Life Lost),Belgium,Both,Age-standardized,All causes,Rate,2018,9146.222818382024,9425.309699063915,8889.306842191567
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1991,9748.251194365937,12704.299257615749,7211.695311240547
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1991,11811.46302286767,15467.21211854879,8625.177338649226
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1991,10774.106648559731,14055.814686300002,7892.98491625868
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1990,9725.658123541656,12668.978133174554,7191.695506981903
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1990,11807.517571889533,15447.58613878643,8622.50179725148
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1990,10760.484801807846,14044.95692764358,7904.668334452332
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1992,9769.5335872036,12722.840803570196,7221.292177167246
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1992,11818.977696065753,15413.194726190643,8659.855182917983
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1992,10789.167297191598,14064.244607855115,7896.419517030705
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1993,9790.392509946509,12742.8410661315,7223.402183820091
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1993,11823.068213359422,15422.00960883165,8669.550337319752
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1993,10802.240022866614,14078.643251770736,7918.132856207384
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1994,9806.825307521927,12764.744815731896,7220.43982582148
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1994,11828.968692260232,15423.572904251561,8690.882094337898
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1994,10814.338087362343,14092.850931112307,7938.9559869666355
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1996,9818.389421345924,12804.328051454131,7268.500212248951
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1996,11840.331198207052,15438.905882428291,8706.678678810687
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1996,10827.689816432468,14121.357294376134,7943.650387052278
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1995,9805.332094732257,12751.739523381717,7236.961261087734
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1995,11822.861699014298,15416.219608512436,8682.320958629294
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1995,10811.37740430433,14099.616208859119,7925.655252879247
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1997,9843.166518047303,12795.962932204,7280.733353692393
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1997,11876.100720955063,15447.435889711609,8685.444922222077
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1997,10858.899086534737,14122.95608657041,7978.524142477293
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1999,9906.876324615952,12871.419095274787,7302.124628011492
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1999,11970.25191243339,15574.225266439857,8724.40033071635
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1999,10939.475107769162,14224.120313346011,8019.298886459891
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,1998,9871.296768527118,12820.45551852822,7292.022721520851
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,1998,11923.525378809207,15514.493702763819,8738.626306695704
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,1998,10897.795267586202,14164.331878559924,7998.925706904772
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2000,9938.424064458823,12891.576841949704,7347.4328354841455
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2000,12009.689752819908,15653.577190536893,8767.32483836215
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2000,10975.573283634145,14270.345397887022,8063.265795161264
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2001,9977.845882563384,12918.832620471892,7368.66594697502
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2001,12058.935457213569,15704.43310419781,8816.823820269341
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2001,11020.224663671117,14334.527117071328,8085.750975667684
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2003,10096.286053909529,13046.014496798278,7457.4268053779215
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2003,12210.19026135186,15910.398226632486,8921.356179555447
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2003,11155.151961410154,14506.950682304878,8182.952531732217
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2005,10164.982267366815,13147.837754193759,7484.691498449204
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2005,12313.25757506651,16038.444326080928,8992.097073625655
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2005,11240.785004551406,14631.727961181392,8232.713679859695
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2002,10033.423075630426,12999.394307537532,7413.120485285386
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2002,12131.450593004998,15818.72652089085,8865.011652887872
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2002,11084.299455330547,14443.221836584089,8133.16525304522
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2004,10139.297510083103,13089.361125840625,7470.883782529877
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2004,12273.308061703245,15971.863776617198,8983.587320910878
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2004,11208.089981644684,14591.975255050551,8191.767510415325
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2007,10167.254423475762,13113.851525949385,7478.4204302367725
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2007,12362.48275427418,16119.725039177463,9053.734892653854
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2007,11266.775171140143,14631.333056067648,8241.729218294959
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2008,10165.28870844986,13126.053650516616,7502.009492795663
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2008,12382.265538753858,16140.57574115828,9074.820604104432
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2008,11275.692156113975,14612.806266991518,8251.386458508247
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2009,10158.193089626744,13092.09100909926,7470.14169207092
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2009,12402.176639727328,16220.333489507022,9082.550732050775
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2009,11282.23605472711,14597.309871494452,8259.871503487007
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2006,10166.261629492248,13162.83000921345,7476.642250791966
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2006,12332.897256027803,16096.554307147659,9046.615944590745
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2006,11251.40841029431,14624.641705764512,8228.612896850747
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2011,10123.37633332628,13094.103281278733,7438.454286364413
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2011,12394.277148149065,16195.768061876537,9041.093657037345
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2011,11261.001535289677,14577.17800195246,8272.389510248604
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2012,10077.06711246078,13018.768831388035,7405.0043619350745
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2012,12348.879847465145,16176.038943262689,9038.287676549451
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2012,11215.229790280626,14545.901074869866,8217.454988254181
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2010,10148.393206627003,13096.250132822404,7478.276140868616
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2010,12410.350553314925,16279.702655448742,9086.50443902387
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2010,11281.378557285798,14563.658367893875,8264.532533356765
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2013,10020.945673028013,12926.302415237547,7382.05681246093
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2013,12293.071832234922,16053.735668655498,8987.593281209089
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2013,11159.650335296708,14463.275235741474,8189.44929822352
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2015,9956.871985866568,12886.309137922677,7349.428058650538
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2015,12219.645700130293,16003.282261083541,8900.72379487099
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2015,11090.87005599103,14449.199575109456,8117.2014021183195
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2016,10003.55112161727,12980.762525152342,7396.554797789334
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2016,12232.901374180285,15967.592200747391,8951.387255156302
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2016,11120.188728491677,14451.504343192848,8139.580804397217
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2017,10047.767470311304,13063.17146951223,7448.150949907806
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2017,12251.301322003605,15970.451704255926,8956.472650333055
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2017,11150.834652697622,14430.740852855339,8213.437860447673
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2019,9900.777041567491,12889.102401635291,7332.306750917232
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2019,12178.17567794351,15796.811289796437,8886.00422186668
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2019,11041.257991899101,14321.294989795644,8083.074860198819
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2014,9974.676510974581,12931.51752751767,7368.378114795101
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2014,12241.220812942252,16038.013217640553,8948.617171962904
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2014,11110.718645490062,14458.325419153645,8128.731763543583
+YLDs (Years Lived with Disability),Belgium,Male,Age-standardized,All causes,Rate,2018,10010.002907584754,12983.184993259678,7439.031597902669
+YLDs (Years Lived with Disability),Belgium,Female,Age-standardized,All causes,Rate,2018,12230.266714960882,15907.209611417547,8933.845571017056
+YLDs (Years Lived with Disability),Belgium,Both,Age-standardized,All causes,Rate,2018,11121.481849882135,14393.407050048321,8193.884878509698
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1992,29730.33472082614,32730.072157667117,27185.35356794058
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1992,22818.702929600342,26434.6806600456,19632.107291470773
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1992,25836.301599455357,29103.068574622626,22955.144255841748
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1991,29976.581138231828,32935.6702323493,27447.016760103044
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1991,22938.210109717947,26594.610291314948,19753.857377780278
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1991,26007.643840934095,29290.33322004719,23126.6724074404
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1990,30219.004714043775,33091.60102529615,27638.162017541323
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1990,23203.349505560745,26847.603357653017,20050.751181914296
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1990,26249.81621032002,29484.578988046134,23357.11487881039
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1993,29614.635156286655,32599.33804909763,27012.85210467752
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1993,22643.63885841149,26243.89043274227,19473.327488800227
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1993,25695.256526995974,28929.775287187163,22865.72184060524
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1996,28171.673026309614,31130.961525718263,25567.896032991655
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1996,21895.858142215326,25525.655738701724,18699.705097636197
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1996,24651.946966041756,27917.44132621527,21774.842458647807
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1994,29169.501232768525,32131.413084677773,26587.892548253567
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1994,22484.985139163087,26086.656756289223,19297.42383835128
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1994,25420.716451715547,28722.80456516241,22544.364937964285
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1995,28738.726300059498,31719.915722583264,26171.37789380801
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1995,22195.110099725767,25800.489735689935,18982.18573666676
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1995,25072.112493537374,28363.20627777153,22184.912012443474
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1997,27786.081149291513,30728.35011598164,25208.999641888146
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1997,21759.234591566656,25415.943838296418,18544.789832329843
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1997,24405.125955342734,27683.800717063954,21476.31890609432
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1998,27427.786823549388,30337.673571355157,24859.727856769685
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1998,21713.082862688352,25421.167953113367,18500.07849458456
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1998,24224.664129061242,27463.573564891143,21339.65051617339
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,1999,27273.99689120045,30209.914519368118,24646.196509349138
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,1999,21521.98533678785,25193.538003006306,18324.81292639459
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,1999,24066.484040120155,27353.44079856861,21141.879412975868
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2000,27012.99654561803,29981.704662534714,24417.2320592321
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2000,21436.344468325056,25050.177523403967,18189.726505502924
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2000,23915.75079854445,27201.625030798892,20997.752570832865
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2001,26624.82541134975,29608.251023832905,23987.976273040676
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2001,21270.21466299781,24920.756620837685,18005.787330204672
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2001,23654.833607578068,26961.131560965634,20730.510645301976
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2002,26287.81347574289,29291.606601921412,23638.900918879564
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2002,21194.630587107644,24949.64997888856,17876.446349105885
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2002,23460.16262500664,26776.32685466387,20513.248483186937
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2004,25317.05484585944,28351.40671129412,22637.85576094077
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2004,20815.76738863778,24479.692991843007,17467.710647608215
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2004,22816.275367793412,26168.742788882526,19841.27808401931
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2006,24509.705829287494,27505.199188336115,21809.766148971892
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2006,20541.62707965321,24278.3181759392,17244.217604296045
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2006,22307.701642471002,25650.05212122065,19294.8871031597
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2005,24968.33377472134,27980.259846254852,22305.805348592505
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2005,20714.857656991015,24413.45212811008,17362.77190018437
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2005,22606.96528375062,25966.05521388018,19593.5981274555
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2003,25889.149156885673,28938.860816180877,23235.43583617537
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2003,21083.52797582493,24747.623295000958,17749.19717719376
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2003,23219.121644663643,26559.02013737716,20264.29744322152
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2008,24090.19023365947,27018.404174367228,21436.951360528907
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2008,20432.640914061132,24161.95977336588,17096.841834752373
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2008,22065.623459785245,25405.408116929913,19029.853965175953
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2009,23750.27086068422,26703.634037475098,21053.49884203339
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2009,20386.91019368396,24164.447110959703,17025.021852010075
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2009,21884.32159154467,25220.409214544143,18847.895405084568
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2010,23497.550257668063,26455.478730284725,20798.915217160164
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2010,20277.11845113137,24100.29698850192,16918.1521820029
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2010,21711.41193870343,25034.068275878813,18688.461498005185
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2007,24289.980003457607,27192.65023188424,21637.384293077168
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2007,20549.263028902435,24300.070876854123,17181.774914314763
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2007,22215.697552998852,25561.5507255043,19200.171644487473
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2012,23037.1030033578,26033.29017773952,20399.53625663408
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2012,19984.088958126387,23789.76488581313,16643.404150609014
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2012,21347.079577138975,24614.85114511896,18350.423840118037
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2014,22103.20393802554,25042.08311042122,19471.788882575398
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2014,19512.61249962176,23292.71004542667,16237.756459719172
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2014,20667.08899004805,23984.628276928303,17692.65770831635
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2013,22588.219143244987,25562.859436414037,19942.179178535243
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2013,19837.69231036395,23583.540270720816,16521.167492431858
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2013,21060.20133470092,24326.846588973203,18078.724585081967
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2016,21699.03900545373,24630.81718983931,19032.59507333413
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2016,19314.598149632377,23033.970520520063,15957.444324841616
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2016,20380.669257179452,23702.887300428913,17372.503962921703
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2017,21659.612075596815,24706.46578825942,18983.52932483969
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2017,19259.750805321055,22945.75885605689,15914.14448567138
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2017,20336.153030587277,23721.482360025537,17342.5731139108
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2018,21555.139262903285,24496.711523989423,18977.266717426995
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2018,19214.183434329087,22839.87071777485,15875.376552232545
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2018,20267.703467144125,23578.883825694047,17305.06404117389
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2011,23211.462394194168,26203.99758568789,20519.561515903413
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2011,20149.146298614876,23924.59495597115,16776.014240648165
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2011,21515.33343747721,24847.38159618098,18502.047735344175
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2015,21857.861131408557,24781.74152933201,19188.689440827682
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2015,19492.868107153794,23270.76785674222,16162.545420164657
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2015,20545.936535033292,23906.69137684637,17573.676361297323
+DALYs (Disability-Adjusted Life Years),Belgium,Male,Age-standardized,All causes,Rate,2019,21426.808774134362,24409.160516361546,18812.143257202013
+DALYs (Disability-Adjusted Life Years),Belgium,Female,Age-standardized,All causes,Rate,2019,19139.705108861475,22728.140255156257,15835.420386333868
+DALYs (Disability-Adjusted Life Years),Belgium,Both,Age-standardized,All causes,Rate,2019,20170.420750929676,23434.572192082167,17229.847463285107
