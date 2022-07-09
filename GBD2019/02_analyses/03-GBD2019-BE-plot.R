@@ -60,7 +60,7 @@ function(y1, y2, .measure, .sex) {
 }
 
 diff_plot <-
-function(y1, y2, .measure, .sex, relative = TRUE) {
+function(y1, y2, .measure, .sex, relative = TRUE, ylab = NULL) {
   x1 <-
   subset(
     x,
@@ -91,9 +91,10 @@ function(y1, y2, .measure, .sex, relative = TRUE) {
            pct(xx$diff.pct))
   } else {
     ifelse(xx$diff > 0,
-           paste0('+', round(xx$diff, 1)),
-           formatC(xx$diff, format = "fg", digits = 2))
+           paste0('+', formatC(xx$diff, format = "fg", digits = 1)),
+           formatC(xx$diff, format = "fg", digits = 1))
   }
+  xx$lab <- gsub("1e\\+01", "10", xx$lab)
 
   p <-
   ggplot(
@@ -115,7 +116,6 @@ function(y1, y2, .measure, .sex, relative = TRUE) {
   if (relative) {
     p <- p +
          scale_y_continuous(
-           NULL,
            labels = pct,
            expand = c(0.1, 0)) +
          ggtitle(
@@ -124,7 +124,6 @@ function(y1, y2, .measure, .sex, relative = TRUE) {
   } else {
     p <- p +
          scale_y_continuous(
-           NULL,
            labels = scales::comma,
            expand = c(0.1, 0)) +
          ggtitle(
@@ -132,18 +131,13 @@ function(y1, y2, .measure, .sex, relative = TRUE) {
            .measure, .sex, y1, y2))
   }
 
-  print(p)
+  print(p + ylab(NULL))
 
   tiff(sprintf("fig/diffplot-%s-%s-%s-%s-%s.tiff",
                .measure, .sex, y1, y2, ifelse(relative, "rel", "abs")),
        10, 7, units = "in", res = 300, compress = "lzw")
-  print(p)
+  print(p + ggtitle(NULL) + ylab(ylab))
   dev.off() 
-}
-
-slope_plot <-
-function() {
-
 }
 
 
@@ -154,6 +148,9 @@ x <- readRDS("GBD2019.rds")
 
 causelist <- bd::readxl("LEVELS.xlsx")
 x$group <- causelist$LEVEL1[match(x$cause, causelist$LEVEL3)]
+x$group[x$cause == "Idiopathic epilepsy"] <- "Non-communicable diseases"
+x$group[x$cause == "Blindness and vision loss"] <- "Non-communicable diseases"
+table(subset(x, is.na(group))$cause)
 
 
 #' # Dot plot
@@ -199,30 +196,46 @@ diff_plot(1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Both")
 #' # Diff plot / Absolute
 #+ fig.width=10, fig.height=7
 
-diff_plot(1990, 2019, "Deaths", "Male", rel = FALSE)
-diff_plot(1990, 2019, "Deaths", "Female", rel = FALSE)
+diff_plot(1990, 2019, "Deaths", "Male", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised death rates per 100,000, 1990-2019")
+diff_plot(1990, 2019, "Deaths", "Female", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised death rates per 100,000, 1990-2019")
 diff_plot(1990, 2019, "Deaths", "Both", rel = FALSE)
 
 diff_plot(
-  1990, 2019, "YLLs (Years of Life Lost)", "Male", rel = FALSE)
+  1990, 2019, "YLLs (Years of Life Lost)", "Male", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised YLL rates per 100,000, 1990-2019")
 diff_plot(
-  1990, 2019, "YLLs (Years of Life Lost)", "Female", rel = FALSE)
+  1990, 2019, "YLLs (Years of Life Lost)", "Female", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised YLL rates per 100,000, 1990-2019")
 diff_plot(
   1990, 2019, "YLLs (Years of Life Lost)", "Both", rel = FALSE)
 
 diff_plot(
-  1990, 2019, "YLDs (Years Lived with Disability)", "Male", rel = FALSE)
+  1990, 2019, "YLDs (Years Lived with Disability)", "Male", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised YLD rates per 100,000, 1990-2019")
 diff_plot(
-  1990, 2019, "YLDs (Years Lived with Disability)", "Female", rel = FALSE)
+  1990, 2019, "YLDs (Years Lived with Disability)", "Female", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised YLD rates per 100,000, 1990-2019")
 diff_plot(
   1990, 2019, "YLDs (Years Lived with Disability)", "Both", rel = FALSE)
 
 diff_plot(
-  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Male", rel = FALSE)
+  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Male", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised DALY rates per 100,000, 1990-2019")
 diff_plot(
-  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Female", rel = FALSE)
+  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Female", rel = FALSE,
+  ylab =
+    "Absolute change in age-standardised DALY rates per 100,000, 1990-2019")
 diff_plot(
-  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Both", rel = FALSE)
+  1990, 2019, "DALYs (Disability-Adjusted Life Years)", "Both", rel = FALSE
 
 
 #' # Slope plot

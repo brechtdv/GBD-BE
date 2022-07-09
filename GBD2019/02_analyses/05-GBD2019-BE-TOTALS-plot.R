@@ -79,11 +79,11 @@ ggplot(
       c("YLLs (Years of Life Lost)", "YLDs (Years Lived with Disability)")&
     sex != "Both"),
   aes(x = year, y = val)) +
-  geom_line(aes(colour = sex, linetype = measure)) +
+  geom_line(aes(colour = sex, linetype = measure), size = 1.2) +
   theme_bw() +
   scale_colour_discrete(breaks = c("Male", "Female")) +
   scale_x_continuous(NULL, breaks = xlim) +
-  scale_y_continuous(NULL, limits = c(5000, 20000), labels = scales::comma) +
+  scale_y_continuous(NULL, limits = c(0, 25000), labels = scales::comma) +
   theme(legend.position = c(0.87, 0.8))
 dev.off()
 
